@@ -1,3 +1,4 @@
+```bash
 [global]
     monitor = 0
     follow = none
@@ -63,3 +64,4 @@
     appname = "Google Chrome"
     summary = "*YouTube*"
     urgency = normal
+```
